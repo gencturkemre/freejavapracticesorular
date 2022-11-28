@@ -2,18 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6a15e36-284b-449d-af73-5801287a8705" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freejavapracticesorular.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/C11_Nestedif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/C12_switchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/C13_switchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/NestedIfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/karesiniAlmaMethodu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/C01_StringManipulationsContains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/C02_StringManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/C03_StringManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/C04_StringManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/C05_StringManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/C13_A_if.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/C14_StringManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/C15_StringManipulationsAndMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/C16StringManipulationsMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/C17_StringManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/C18_StringManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/C19_Stringmanipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/C20_StringManipulations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/C13_switchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/C13_switchCase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +37,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HaMSCKjmK4d8X7SwB9EYHPTyBQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,13 +50,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ddd">
-    <configuration name="C11_Nestedif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.C11_Nestedif" />
+  <component name="RunManager" selected="Application.C04_StringManipulations">
+    <configuration name="C01_StringManipulationsContains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02.C01_StringManipulationsContains" />
       <module name="freejavapracticesorular" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.*" />
+          <option name="PATTERN" value="day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C12_switchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.C12_switchCase" />
+    <configuration name="C02_StringManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02.C02_StringManipulations" />
       <module name="freejavapracticesorular" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.*" />
+          <option name="PATTERN" value="day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedIfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.NestedIfStatements" />
+    <configuration name="C03_StringManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02.C03_StringManipulations" />
       <module name="freejavapracticesorular" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.*" />
+          <option name="PATTERN" value="day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ddd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.ddd" />
+    <configuration name="C04_StringManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02.C04_StringManipulations" />
       <module name="freejavapracticesorular" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.*" />
+          <option name="PATTERN" value="day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ternary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.ternary" />
+    <configuration name="C20_StringManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1.C20_StringManipulations" />
       <module name="freejavapracticesorular" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ddd" />
-        <item itemvalue="Application.C12_switchCase" />
-        <item itemvalue="Application.C11_Nestedif" />
-        <item itemvalue="Application.NestedIfStatements" />
-        <item itemvalue="Application.ternary" />
+        <item itemvalue="Application.C04_StringManipulations" />
+        <item itemvalue="Application.C03_StringManipulations" />
+        <item itemvalue="Application.C02_StringManipulations" />
+        <item itemvalue="Application.C01_StringManipulationsContains" />
+        <item itemvalue="Application.C20_StringManipulations" />
       </list>
     </recent_temporary>
   </component>
