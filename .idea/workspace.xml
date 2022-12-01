@@ -2,21 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6a15e36-284b-449d-af73-5801287a8705" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day02/C01_StringManipulationsContains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/C02_StringManipulations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/C03_StringManipulations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/C04_StringManipulations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/C05_StringManipulations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/C13_A_if.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/C14_StringManipulations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/C15_StringManipulationsAndMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/C16StringManipulationsMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/C17_StringManipulations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/C18_StringManipulations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/C19_Stringmanipulations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/C20_StringManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/C06_StringManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/C07_StringManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/C08_MethodCreationsHesapMakinesi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/C09_MethodsForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/C10_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/C11_MethodCreations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/C13_switchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/C13_switchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02/C05_StringManipulations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02/C05_StringManipulations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +41,13 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C04_StringManipulations">
-    <configuration name="C01_StringManipulationsContains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.C01_StringManipulationsContains" />
+  <component name="RunManager" selected="Application.C10_Methods">
+    <configuration name="C06_StringManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02.C06_StringManipulations" />
       <module name="freejavapracticesorular" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_StringManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.C02_StringManipulations" />
+    <configuration name="C07_StringManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02.C07_StringManipulations" />
       <module name="freejavapracticesorular" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_StringManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.C03_StringManipulations" />
+    <configuration name="C08_MethodCreationsHesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02.C08_MethodCreationsHesapMakinesi" />
       <module name="freejavapracticesorular" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_StringManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.C04_StringManipulations" />
+    <configuration name="C09_MethodsForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02.C09_MethodsForLoop" />
       <module name="freejavapracticesorular" />
       <extension name="coverage">
         <pattern>
@@ -103,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C20_StringManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.C20_StringManipulations" />
+    <configuration name="C10_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02.C10_Methods" />
       <module name="freejavapracticesorular" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.*" />
+          <option name="PATTERN" value="day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C04_StringManipulations" />
-        <item itemvalue="Application.C03_StringManipulations" />
-        <item itemvalue="Application.C02_StringManipulations" />
-        <item itemvalue="Application.C01_StringManipulationsContains" />
-        <item itemvalue="Application.C20_StringManipulations" />
+        <item itemvalue="Application.C10_Methods" />
+        <item itemvalue="Application.C09_MethodsForLoop" />
+        <item itemvalue="Application.C08_MethodCreationsHesapMakinesi" />
+        <item itemvalue="Application.C07_StringManipulations" />
+        <item itemvalue="Application.C06_StringManipulations" />
       </list>
     </recent_temporary>
   </component>
