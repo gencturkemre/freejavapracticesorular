@@ -28,16 +28,20 @@ public class C11_MethodCreations {
 
         String str = "ade1r4d3";
 
-        int toplam=0;
+        System.out.println("sayilaritopla(str) = " + sayilaritopla(str));
+    }
+
+    public static int sayilaritopla(String str) {
+        int toplam = 0;
         for (int i = 0; i < str.length(); i++) {
-            if (Character.isDigit(str.charAt(i))){
+            if (Character.isDigit(str.charAt(i))) {
 
-
+                toplam = toplam + Integer.valueOf("" + str.charAt(i));
 
             }
-
         }
 
-
+        return toplam;
     }
+
 }

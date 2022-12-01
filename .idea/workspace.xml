@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6a15e36-284b-449d-af73-5801287a8705" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/C06_StringManipulations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/C07_StringManipulations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/C08_MethodCreationsHesapMakinesi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/C09_MethodsForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/C10_Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/C11_MethodCreations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/C12_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/C13_ForLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02/C05_StringManipulations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02/C05_StringManipulations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02/C11_MethodCreations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02/C11_MethodCreations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,59 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C10_Methods">
-    <configuration name="C06_StringManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.C06_StringManipulations" />
-      <module name="freejavapracticesorular" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C07_StringManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.C07_StringManipulations" />
-      <module name="freejavapracticesorular" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C08_MethodCreationsHesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.C08_MethodCreationsHesapMakinesi" />
-      <module name="freejavapracticesorular" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C09_MethodsForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.C09_MethodsForLoop" />
-      <module name="freejavapracticesorular" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.C13_ForLoop">
     <configuration name="C10_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day02.C10_Methods" />
       <module name="freejavapracticesorular" />
@@ -111,13 +54,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C11_MethodCreations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02.C11_MethodCreations" />
+      <module name="freejavapracticesorular" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C12_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02.C12_Methods" />
+      <module name="freejavapracticesorular" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C13_ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02.C13_ForLoop" />
+      <module name="freejavapracticesorular" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02.dd" />
+      <module name="freejavapracticesorular" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C13_ForLoop" />
+        <item itemvalue="Application.dd" />
+        <item itemvalue="Application.C12_Methods" />
+        <item itemvalue="Application.C11_MethodCreations" />
         <item itemvalue="Application.C10_Methods" />
-        <item itemvalue="Application.C09_MethodsForLoop" />
-        <item itemvalue="Application.C08_MethodCreationsHesapMakinesi" />
-        <item itemvalue="Application.C07_StringManipulations" />
-        <item itemvalue="Application.C06_StringManipulations" />
       </list>
     </recent_temporary>
   </component>
