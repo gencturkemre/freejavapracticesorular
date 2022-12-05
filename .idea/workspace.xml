@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6a15e36-284b-449d-af73-5801287a8705" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day02/C12_Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/C13_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/C14_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/C15_2yol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/C15_CarpimTablosu_NestedLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02/C11_MethodCreations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02/C11_MethodCreations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,48 +40,48 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C13_ForLoop">
-    <configuration name="C10_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.C10_Methods" />
-      <module name="freejavapracticesorular" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C11_MethodCreations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.C11_MethodCreations" />
-      <module name="freejavapracticesorular" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C12_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.C12_Methods" />
-      <module name="freejavapracticesorular" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.C15_CarpimTablosuScan">
     <configuration name="C13_ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day02.C13_ForLoop" />
+      <module name="freejavapracticesorular" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C14_ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02.C14_ForLoop" />
+      <module name="freejavapracticesorular" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C15_CarpimTablosuScan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02.C15_CarpimTablosuScan" />
+      <module name="freejavapracticesorular" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C15_CarpimTablosu_NestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02.C15_CarpimTablosu_NestedLoop" />
       <module name="freejavapracticesorular" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C15_CarpimTablosuScan" />
+        <item itemvalue="Application.C15_CarpimTablosu_NestedLoop" />
+        <item itemvalue="Application.C14_ForLoop" />
         <item itemvalue="Application.C13_ForLoop" />
         <item itemvalue="Application.dd" />
-        <item itemvalue="Application.C12_Methods" />
-        <item itemvalue="Application.C11_MethodCreations" />
-        <item itemvalue="Application.C10_Methods" />
       </list>
     </recent_temporary>
   </component>
