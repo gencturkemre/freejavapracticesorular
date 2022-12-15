@@ -1,22 +1,43 @@
 package day02;
 
-public class C16_LoopsSesliSessizHarf {
+import java.util.Scanner;
 
-      /*Kullanıcıdan bir harf girmesini isteyiniz. Girilen harf sesli ise Sesli harf olduğunu,
-     değilse sessiz harf olduğunu ekrana yazdırsın. Girdiği değer harf değilse yada
-     1 karakterden fazla ise hata mesajı göstersin. (Test girilen harfi büyük yada küçüklüğüne duyarlıdır.)
-     Sesli harfler: a,e,i,o,u
-     Test Data:
-     a
-     Beklenen Çıktı:
-     a harfi sesli harfdir.
-     Test Data:
-     d
-     Beklenen Çıktı:
-     d harfi sesiz harftir.
-     Test Data:
-     we  yada  %
-     Beklenen Çıktı:
-     Yanlis karakter girdiniz!
-            */
-}
+public class C16_LoopsSesliSessizHarf {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("lütfen sesli bir harf giriniz ");
+        String girilenHarf = scan.next();
+
+        String sessizHarf = "qzwsxdcrfvtgbyhnmjuklçşpğ";
+        String sesliHarf = "aeıouiöü";
+        String sayilar = "1234567890";
+
+        if (girilenHarf.length() > 1) {
+            System.out.println("birden fazla Harf girdiniz ");
+        }
+        if (girilenHarf.contains(sayilar)) {
+            System.out.println("sayi girdiniz");
+        }
+        for (int i = 0; i < sesliHarf.length(); i++) {
+            if (girilenHarf.equals(sesliHarf.substring(i, i + 1))) {
+                System.out.println("sesli Harf girdiniz");
+            }
+        }
+        for (int i = 0; i <sessizHarf.length() ; i++) {
+            if (girilenHarf.equals(sessizHarf.substring(i,i+1))){
+                System.out.println("Sessiz Harf Girdiniz");
+
+        }
+        }
+        for (int i = 0; i <sayilar.length() ; i++) {
+            if (girilenHarf.equals(sayilar.substring(i,i+1))){
+                System.out.println("Sayı Girdiniz");
+
+            }
+        }
+
+
+
+    }}
+
+
